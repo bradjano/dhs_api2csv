@@ -1,0 +1,20 @@
+,Indicator,Value,IndicatorId,SDRID,DenominatorWeighted,DenominatorUnweighted
+0,Married women currently using any modern method of contraception,23.9,FP_CUSM_W_MOD,FPCUSMWMOD,4216,4654
+1,Unmet need for family planning,33.4,FP_NADM_W_UNT,FPNADMWUNT,4216,4654
+2,Demand for family planning satisfied by modern methods,40.9,FP_NADM_W_PDM,FPNADMWPDM,2461,2787
+4,Antenatal visits for pregnancy: 4+ visits,87.3,RH_ANCN_W_N4P,RHANCNWN4P,4026,4267
+6,Women with any anemia,44.5,AN_ANEM_W_ANY,ANANEMWANY,4027,4065
+7,Women who are literate,52.0,ED_LITR_W_LIT,EDLITRWLIT,8065,8065
+1,Place of delivery: Health facility,79.8,RH_DELP_C_DHF,RHDELPCDHF,5263,5704
+3,DPT 1 vaccination received,91.4,CH_VACC_C_DP1,CHVACCCDP1,937,1063
+4,DPT 3 vaccination received,69.2,CH_VACC_C_DP3,CHVACCCDP3,937,1063
+5,Measles vaccination received,73.8,CH_VACC_C_MSL,CHVACCCMSL,937,1063
+6,Pneumococcal 3 vaccination received,68.5,CH_VACC_C_PN3,CHVACCCPN3,937,1063
+7,Received all 8 basic vaccinations,50.8,CH_VACC_C_BAS,CHVACCCBAS,937,1063
+8,Percentage showing a vaccination card,58.0,CH_VAC1_C_VCD,CHVAC1CVCD,1810,2036
+0,Children stunted,29.8,CN_NUTS_C_HA2,CNNUTSCHA2,2814,2951
+1,Persons with access to an insecticide-treated mosquito net (ITN),39.7,ML_ITNA_P_ACC,MLITNAPACC,40202,40098
+2,Men who do not smoke,91.5,AH_TOBC_M_NON,AHTOBCMNON,3821,3760
+3,Men who are literate,75.0,ED_LITR_M_LIT,EDLITRMLIT,3821,3760
+4,Population living in households using an improved water source,84.6,WS_SRCE_P_IMP,WSSRCEPIMP,41506,41423
+5,Population living in households using open defecation,34.8,WS_TLET_P_NFC,WSTLETPNFC,41506,41423
